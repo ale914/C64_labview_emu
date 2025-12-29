@@ -1,3 +1,9 @@
+> [!NOTE]
+> ## Development Blog
+> I'm writing a blog series about developing the various parts of this emulator.
+> 
+> Find it here [crossover-eng.it](https://www.crossover-eng.it)
+
 # C64 LabVIEW Emulator
 
 A Commodore 64 emulator written entirely in LabVIEW - because nobody said it was impossible (yet).
