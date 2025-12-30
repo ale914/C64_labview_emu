@@ -14,7 +14,7 @@ A Commodore 64 emulator written entirely in LabVIEW - because nobody said it was
 
 After searching the web, I couldn't find anything similar already implemented, except for an old broken link that supposedly contained some basic LabVIEW code of an emulator. The fact that nothing like this existed, rather than discouraging me, added 100 challenge points to the project.
 
-So I started studying how it could be done, and after a few days of research and consultations with AI assistants, I concluded that it was feasible - with the appropriate exceptions and limitations, of course.
+So I started studying how it could be done, and after a few days of research, I concluded that it was feasible - with the appropriate exceptions and limitations, of course.
 
 ## Project Goals & Limitations
 
