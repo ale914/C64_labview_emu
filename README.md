@@ -12,7 +12,7 @@ A Commodore 64 emulator written entirely in LabVIEW - because nobody said it was
 
 **Is it possible to create a C64 emulator written entirely in LabVIEW?**
 
-After searching the web, I couldn't find anything similar already implemented, except for an old broken link that supposedly contained some basic LabVIEW code for a very rudimentary emulator. The fact that nothing like this existed, rather than discouraging me, added 100 challenge points to the project.
+After searching the web, I couldn't find anything similar already implemented, except for an old broken link that supposedly contained some basic LabVIEW code of an emulator. The fact that nothing like this existed, rather than discouraging me, added 100 challenge points to the project.
 
 So I started studying how it could be done, and after a few days of research and consultations with AI assistants, I concluded that it was feasible - with the appropriate exceptions and limitations, of course.
 
@@ -20,6 +20,8 @@ So I started studying how it could be done, and after a few days of research and
 
 ### What's (Probably) Not Feasible
 - **VIC-II (Video Chip)**: Implementing the graphics chip is practically impossible, which means games like "Prince of Persia" will never run on this emulator. However, even without graphics support, I believe the project has value, and who knows - maybe the VIC-II implementation will eventually become possible.
+
+**UPDATE**: I started working on it, seem to be doable.
 
 ### What I Plan to Implement
 - **CPU 6510**: Starting with the 52 "legal" instructions, possibly expanding to include undocumented opcodes later
